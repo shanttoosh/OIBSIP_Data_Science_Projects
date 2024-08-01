@@ -1,7 +1,7 @@
 # OIBSIP_Data_Science_Projects
 This repository contains all the tasks and projects completed during my data analytics internship at Oasis Infobyte. Here, I explore various aspects of data science, including data analysis, visualization, machine learning, and more. Each project is organized in its respective directory, with detailed explanations and documentation.
 
-Task 1 - EDA on Sales Report
+# Task 1 - EDA on Sales Report
 Introduction
 This project involves an exploratory data analysis (EDA) of a sales dataset to uncover insights into sales trends, customer demographics, product performance, and purchasing behavior. The findings from this analysis will guide strategic recommendations for improving sales and customer engagement.
 
