@@ -1,5 +1,28 @@
 # EDA on Sales Report
 
+1. [Introduction](#introduction)
+2. [Analysis Overview](#analysis-overview)
+   - [1. Importing Necessary Libraries](#1-importing-necessary-libraries)
+   - [2. Data Cleaning](#2-data-cleaning)
+   - [3. Descriptive Statistics](#3-descriptive-statistics)
+   - [4. Time Series Analysis](#4-time-series-analysis)
+   - [5. Customer Demographics Analysis](#5-customer-demographics-analysis)
+   - [6. Product Analysis](#6-product-analysis)
+   - [7. Transaction Summary](#7-transaction-summary)
+   - [8. Customer Purchasing Behavior](#8-customer-purchasing-behavior)
+   - [9. Visualizations](#9-visualizations)
+3. [Recommendations](#recommendations)
+   - [Sales Trend Insights](#sales-trend-insights)
+   - [Demographic Insights](#demographic-insights)
+   - [Gender Distribution Insights](#gender-distribution-insights)
+   - [Purchasing Behavior Insights](#purchasing-behavior-insights)
+4. [Conclusion](#conclusion)
+5. [Usage](#usage)
+6. [How to Run](#how-to-run)
+7. [Link to Repository](#link-to-repository)
+8. [Connect with Me](#connect-with-me)
+9. [Resources](#resources)
+
 ## Introduction
 
 As part of my internship at Oasis Infobyte, I successfully completed my first task. This project involves an exploratory data analysis (EDA) of a sales dataset to uncover insights into sales trends, customer demographics, product performance, and purchasing behavior. The findings from this analysis will guide strategic recommendations for improving sales and customer engagement.
