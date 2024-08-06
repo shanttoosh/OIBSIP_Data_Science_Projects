@@ -131,5 +131,5 @@ This project is intended for data analysts, business strategists, and anyone int
 Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/shanttoosh-v-470484289/) and follow my journey in data analytics and visualization!
 
 ## 16. 📚 Resources
-Google: Google colab
+Google: Google colab.
 Data Source: (https://www.kaggle.com/datasets/berkayalan/retail-sales-data)
