@@ -1,5 +1,5 @@
 
-#  Airbnb NYC 2019 Data Cleaning Project
+# Data Cleaning Project
 
 As part of my internship at Oasis Infobyte, I successfully completed my second task: Data Cleaning. This project involves the preprocessing of the Airbnb NYC 2019 dataset. The primary goal is to clean the data, handle missing values, identify and treat outliers, and prepare the dataset for further analysis or modeling.
 
@@ -17,7 +17,7 @@ As part of my internship at Oasis Infobyte, I successfully completed my second t
    - [Cleaning String Columns](#-cleaning-string-columns)
    - [Standardizing Numerical Values](#-standardizing-numerical-values)
    - [Handling Outliers](#-handling-outliers)
-6. [Running the Analysis](#-running-the-analysis)
+6. [How to Run](#-How-to-Run)
 7. [Link to Repository](#-link-to-repository)
 8. [Connect with Me](#-connect-with-me)
 9. [Resources](#-resources)
@@ -95,12 +95,19 @@ The following steps were performed to clean and preprocess the data:
 
 ---
 
-## 6. 🚀 Running the Analysis
+## 6. How to Run
 
-To run the analysis, clone the repository:
+1. **Clone the Repository**: 
+   ```bash
+   git clone <repository-url>
+   
+2. **Install Required Libraries**
+   ```bash
+   pip install numpy pandas matplotlib
+   
+3. **Run the Analysis**
+   Open the Jupyter Notebook and run each cell to perform the Data Cleaning
 
-```bash
-git clone <repository-url>
 
 ## 7. 📌 Link to Repository
 
