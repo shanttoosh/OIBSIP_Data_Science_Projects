@@ -1,5 +1,5 @@
 
-# 🏠 Airbnb NYC 2019 Data Cleaning Project
+#  Airbnb NYC 2019 Data Cleaning Project
 
 As part of my internship at Oasis Infobyte, I successfully completed my second task: Data Cleaning. This project involves the preprocessing of the Airbnb NYC 2019 dataset. The primary goal is to clean the data, handle missing values, identify and treat outliers, and prepare the dataset for further analysis or modeling.
 
