@@ -1,14 +1,42 @@
 
-## Introduction 
+# 🏠 Airbnb NYC 2019 Data Cleaning Project
 
-As part of my internship at Oasis Infobyte, I successfully completed my second task Data Cleaning.
-This project involves the preprocessing of the Airbnb NYC 2019 dataset. The primary goal is to clean the data, handle missing values, identify and treat outliers, and prepare the dataset for further analysis or modeling.
+As part of my internship at Oasis Infobyte, I successfully completed my second task: Data Cleaning. This project involves the preprocessing of the Airbnb NYC 2019 dataset. The primary goal is to clean the data, handle missing values, identify and treat outliers, and prepare the dataset for further analysis or modeling.
 
-## 1. Dataset
+---
+
+## 📚 Table of Contents
+
+1. [Introduction](#-introduction)
+2. [Dataset](#-dataset)
+3. [Dataset Features](#-dataset-features)
+4. [Project Structure](#-project-structure)
+5. [Data Cleaning Process](#-data-cleaning-process)
+   - [Handling Missing Values](#-handling-missing-values)
+   - [Handling Duplicates](#-handling-duplicates)
+   - [Cleaning String Columns](#-cleaning-string-columns)
+   - [Standardizing Numerical Values](#-standardizing-numerical-values)
+   - [Handling Outliers](#-handling-outliers)
+6. [Running the Analysis](#-running-the-analysis)
+7. [Link to Repository](#-link-to-repository)
+8. [Connect with Me](#-connect-with-me)
+9. [Resources](#-resources)
+
+---
+
+## 1. 🏠 Introduction
+
+As part of my internship at Oasis Infobyte, I successfully completed my second task: Data Cleaning. This project involves the preprocessing of the Airbnb NYC 2019 dataset. The primary goal is to clean the data, handle missing values, identify and treat outliers, and prepare the dataset for further analysis or modeling.
+
+---
+
+## 2. 📊 Dataset
 
 The dataset used in this project is `AB_NYC_2019.csv`, which contains information about Airbnb listings in New York City as of 2019.
 
-## 2. Dataset Features
+---
+
+## 3. 📑 Dataset Features
 
 The dataset consists of 48,895 entries and 16 columns:
 
@@ -29,43 +57,69 @@ The dataset consists of 48,895 entries and 16 columns:
 - `calculated_host_listings_count`: Number of listings the host has
 - `availability_365`: Number of days the listing is available in a year
 
-## 3. Project Structure
+---
+
+## 4. 🗂 Project Structure
 
 - `data`: Directory containing the dataset file `AB_NYC_2019.csv`
 - `notebooks`: Directory containing Jupyter notebooks for data analysis
 - `README.md`: Project documentation
 
-## 4. Data Cleaning Process
+---
+
+## 5. 🧹 Data Cleaning Process
 
 The following steps were performed to clean and preprocess the data:
 
-### . Handling Missing Values
+### 📉 Handling Missing Values
 
 - Identified columns with missing values: `name`, `host_name`, `last_review`, and `reviews_per_month`.
 - Dropped rows with missing values to simplify analysis.
 
-### . Handling Duplicates
+### 🔄 Handling Duplicates
 
 - Checked for duplicate entries and confirmed that there were no duplicates in the dataset.
 
-### . Cleaning String Columns
+### 🧽 Cleaning String Columns
 
 - Removed special characters and numeric values from non-numeric columns such as `name`, `host_name`, and `neighbourhood`.
 
-### . Standardizing Numerical Values
+### 🔢 Standardizing Numerical Values
 
 - Scaled numerical features such as `availability_365`, `calculated_host_listings_count`, `reviews_per_month`, `number_of_reviews`, `minimum_nights`, and `price` using `StandardScaler`.
 
-### . Handling Outliers
+### 📏 Handling Outliers
 
 - Detected outliers using the Interquartile Range (IQR) method.
 - Replaced outliers with the median values of the respective columns to maintain data consistency.
 
-## 6. Running the Analysis
+---
 
-. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/airbnb-nyc-analysis.git
+## 6. 🚀 Running the Analysis
+
+To run the analysis, clone the repository:
+
+```bash
+git clone https://github.com/shanttoosh/OIBSIP_Data_Science_Projects/tree/main/aOIBSIP_Task_2
+
+## 7. 📌 Link to Repository
+
+[Repository Link](https://github.com/shanttoosh/OIBSIP_Data_Science_Projects/tree/main/OIBSIP_Task_1)
+
+---
+
+## 8. 🤝 Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shanttoosh-v-470484289/) and follow my journey in data analytics and visualization!
+
+---
+
+## 9. 📚 Resources
+
+- **Google:** [Google Colab](https://colab.research.google.com/)
+- **Data Source:** [Kaggle: New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
+
 
 
 
