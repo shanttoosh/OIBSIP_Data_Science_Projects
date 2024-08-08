@@ -100,7 +100,7 @@ The following steps were performed to clean and preprocess the data:
 To run the analysis, clone the repository:
 
 ```bash
-git clone https://github.com/shanttoosh/OIBSIP_Data_Science_Projects/tree/main/aOIBSIP_Task_2
+git clone <repository-url>
 
 ## 7. 📌 Link to Repository
 
