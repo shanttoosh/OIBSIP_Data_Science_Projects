@@ -1,5 +1,7 @@
 # Customer Segmentation Machine Learning Model
 
+As part of my internship at Oasis Infobyte, I successfully completed my fourth task: Customer Segmentation Machine Learning Model using k means.This project focuses on customer segmentation using the K-Means clustering algorithm to identify distinct customer groups based on their purchasing behavior. By analyzing key metrics such as Recency, Frequency, and Monetary value (RFM), we aim to provide actionable insights that can help businesses tailor their marketing strategies and enhance customer engagement.
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Data Loading](#data-loading)
@@ -91,7 +93,12 @@ After the clusters are formed, it's important to analyze them to understand the 
 ## Conclusion
 This project successfully segments customers into distinct groups based on their purchasing behavior. The insights gained from this segmentation can be used to tailor marketing strategies, improve customer satisfaction, and ultimately drive sales growth. The approach used in this project can be applied to other customer datasets to achieve similar objectives.
 
----
+## License
 
-This README.md file provides a comprehensive overview of the customer segmentation project, covering all major steps from data loading to cluster analysis. The detailed explanations and structured approach make it easier for others to understand and replicate the process.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shanttoosh-v-470484289/) and follow my journey in data analytics and visualization!
+
 
