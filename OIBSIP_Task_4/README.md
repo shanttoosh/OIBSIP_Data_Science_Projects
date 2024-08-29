@@ -1,6 +1,6 @@
 # Customer Segmentation Machine Learning Model
 
-As part of my internship at Oasis Infobyte, I successfully completed my fourth task: Customer Segmentation Machine Learning Model using k means.This project focuses on customer segmentation using the K-Means clustering algorithm to identify distinct customer groups based on their purchasing behavior. By analyzing key metrics such as Recency, Frequency, and Monetary value (RFM), we aim to provide actionable insights that can help businesses tailor their marketing strategies and enhance customer engagement.
+As part of my internship at Oasis Infobyte, I successfully completed my fourth task: Customer Segmentation Machine Learning Model using k means.This project focuses on customer segmentation using the K-Means clustering algorithm to identify distinct customer groups based on their purchasing behavior. By analyzing key metrics such as Recency, Frequency, and Monetary value (RFM), which aim to provide actionable insights that can help businesses tailor their marketing strategies and enhance customer engagement.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
