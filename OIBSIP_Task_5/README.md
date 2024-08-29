@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project involves analyzing tweets related to various airlines to determine the sentiment of the tweets. The dataset contains tweets labeled as positive, negative, or neutral. The goal of the project is to clean and preprocess the text data, perform exploratory data analysis (EDA), and build machine learning models to classify the sentiment of the tweets.
+As part of my internship at Oasis Infobyte, I successfully completed my fifth task: This project involves analyzing tweets related to various airlines to determine the sentiment of the tweets. The dataset contains tweets labeled as positive, negative, or neutral. The goal of the project is to clean and preprocess the text data, perform exploratory data analysis (EDA), and build machine learning models to classify the sentiment of the tweets.
 
 ## Table of Contents
 1. [Data Loading & Initial Exploration](#data-loading--initial-exploration)
@@ -47,5 +47,13 @@ This project involves analyzing tweets related to various airlines to determine 
 ## Visualization
 
 - The relationship between the tweet hour and sentiment is visualized using count plots to identify any patterns in sentiment based on the time of the tweet.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shanttoosh-v-470484289/) and follow my journey in data analytics and visualization!
 
 
